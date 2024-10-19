@@ -1,3 +1,11 @@
+This repository contains my work for the 2023-2024 Parallel Architectures class taught at the university of Bordeaux. The simulations are implemented inside of [EasyPAP](https://gforgeron.gitlab.io/easypap/), a parallel programming framework written by my teachers specifically for this class.
+
+The relevant code is in `kernel/c/sandPile.c`.
+
+Below is the original README of EasyPAP.
+
+---
+
 [EasyPAP](https://gforgeron.gitlab.io/easypap) aims at providing students with an easy-to-use programming environment
 to learn parallel programming.
 
