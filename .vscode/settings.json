@@ -1,0 +1,8 @@
+{
+	"C_Cpp.clang_format_style": "{ColumnLimit: 160, TabWidth: 4, IndentWidth: 4, BasedOnStyle: Chromium}",
+	"C_Cpp.default.cStandard": "gnu23",
+	"editor.formatOnSave": false,
+	"files.associations": {
+		"atomic": "c"
+	},
+}
